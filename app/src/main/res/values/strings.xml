@@ -6,4 +6,12 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="forgot">Forgot Password? <b>Reset!</b></string>
     <string name="not_account">Do not have account? <b>Sign Up!</b></string>
+    <string name="client_id">218399809467-ptj6ffll3r17kp211p11602u9r2nbeal.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">1737888309944104</string>
+    <string name="fb_login_protocol_scheme">fb1737888309944104</string>
+    <string name="facebook_client_token">ba18a251fc4d85f7a601f3241d2b8a12</string>
+
+
 </resources>

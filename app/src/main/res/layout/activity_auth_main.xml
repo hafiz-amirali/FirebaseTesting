@@ -8,6 +8,8 @@
     tools:context=".AuthMain">
 
 
+
+
     <ImageView
         android:id="@+id/imgView"
         android:layout_width="123dp"
@@ -45,8 +47,8 @@
 
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="318dp"
-        android:layout_height="169dp"
+        android:layout_width="322dp"
+        android:layout_height="230dp"
         android:gravity="center"
         android:orientation="vertical"
         android:textAlignment="center"
@@ -59,7 +61,7 @@
 
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/signup"
             android:layout_width="306dp"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -69,6 +71,33 @@
             android:textColor="@android:color/white"
             tools:layout_editor_absoluteX="158dp"
             tools:layout_editor_absoluteY="499dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/googlebtn"
+            android:layout_width="306dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_shape"
+            android:text="Sing in with Google"
+            app:iconGravity="start"
+            app:iconTintMode="multiply"
+            android:textColor="@color/black"
+            app:backgroundTint="@color/orange"
+            app:icon="@drawable/google"
+            app:iconSize="5mm" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fb_btn"
+            android:layout_width="306dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_shape"
+            android:text="Sing in with Facebook"
+            android:textColor="@color/black"
+            android:layout_margin="10dp"
+
+            app:backgroundTint="@color/orange"
+            app:iconTint="@color/com_facebook_button_background_color"
+            app:icon="@drawable/com_facebook_button_icon"
+            app:iconSize="30sp" />
 
 
     </LinearLayout>

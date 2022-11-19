@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/drawable/et_shape.xml" value="0.14" />
         <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/drawable/nav_auth.xml" value="0.1655" />
-        <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_auth_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_auth_main.xml" value="0.3018867924528302" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_signup.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Amir/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_signup.xml" value="0.36666666666666664" />
       </map>
